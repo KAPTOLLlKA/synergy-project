@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "chromedriver": "^107.0.3",
-    "pg": "7.18.2",
+    "postgresql-client": "^2.5.1",
     "selenium-webdriver": "^4.6.0"
   }
 }
